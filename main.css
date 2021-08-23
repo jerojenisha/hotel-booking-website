@@ -97,7 +97,7 @@ body{
     display: none;
     position: absolute;
     background-color:white;
-    min-width: 175px;
+    min-width: 130px;
     z-index: 1;
 }
 .header-2 .dropdown-content a{
