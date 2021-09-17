@@ -88,6 +88,7 @@ body{
     padding:10px;
     font-size: 30px;
     border:none;
+    border-radius: .5rem;
 }
 .header-2 .dropdown{
     position: relative;
@@ -99,12 +100,14 @@ body{
     background-color:white;
     min-width: 130px;
     z-index: 1;
+    border-radius: .5rem;
 }
 .header-2 .dropdown-content a{
  color:var(--dark);
  padding: 10px 12px;
  text-decoration:none;
  display:block;
+ border-radius: .5rem;
 }
 .header-2 .dropdown-content a:hover{
     background-color:var(--yellow);
