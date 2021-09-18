@@ -72,7 +72,7 @@ body{
 }
 .header-2 .navbar a{
     padding: .5rem 1.5rem;
-    font-size: 2rem;
+    font-size: 1.5rem;
     border-radius: .5rem;
     color:white;
     
@@ -86,7 +86,7 @@ body{
     background-color:transparent ;
     color:white;
     padding:10px;
-    font-size: 30px;
+    font-size: 1.5rem;
     border:none;
     border-radius: .5rem;
 }
